@@ -1,0 +1,99 @@
+[
+    {
+        "precio": 120.00,
+        "otro": "blanca como la nieve",
+        "id": 1,
+        "title": "cpu-blaca",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/1.png"
+    },
+
+    {
+        "precio": 15.00,
+        "otro": "latino",
+        "id": 2,
+        "title": "cpu-ecologica",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/2.png"
+    },
+
+    {
+        "precio": 90.50,
+        "otro": "el pelos parados",
+        "id": 3,
+        "title": "cpu-eriso",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/3.png"
+    },
+
+    {
+        "precio": 20.00,
+        "otro": "evangelio",
+        "id": 4,
+        "title": "cpu-evand",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/4.png" 
+    },
+
+    {
+        "precio": 18.50,
+        "otro": "escuincle",
+        "id": 5,
+        "title": "cpu-jr",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/5.png" 
+    },
+
+    {
+        "precio": 8000.00,
+        "otro": "mayor procesador",
+        "id": 6,
+        "title": "cpu-nasa",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/6.png"
+    },
+
+    {
+        "precio": 17.00,
+        "otro": "kawai",
+        "id": 7,
+        "title": "cpu-pink",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/7.png" 
+    },
+
+    {
+        "precio": 5000.00,
+        "otro": "1000 fps",
+        "id": 8,
+        "title": "cpu-radio",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/8.png" 
+    },
+
+    {
+        "precio": 100.00,
+        "otro": "la carcel",
+        "id": 9,
+        "title": "cpu-rejilla",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/9.png" 
+    },
+
+    {
+        "precio": 60.00,
+        "otro": "el talachero",
+        "id": 10,
+        "title": "cpu-trescartuchos",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/10.png"
+    },
+
+    {
+        "precio": 19.00,
+        "otro": "computadoras del año",
+        "id": 11,
+        "title": "cpu-uacj",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/11.png"
+    },
+
+    {   
+        "precio": 23.50,
+        "otro": "con rgb",
+        "id": 12,
+        "title": "cpu-xtreme",
+        "thumbnailUrl": "https://trabajoenclaseconelprofe.000webhostapp.com/examen-1/img/12.png"
+    }
+   
+
+]
